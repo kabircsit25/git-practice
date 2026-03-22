@@ -4,9 +4,9 @@
     int a,b,mul;
     printf("Enter a:");
     scanf("%d", &a);
-    printf("Enter b:");
-    scanf("%d", &b);
-    mul=a*b;
+    printf("Enter c:");
+    scanf("%d", &c);
+    mul=a*c;
     printf("The multiply is: %d", mul);
     return 0;
  }
